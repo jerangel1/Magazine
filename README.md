@@ -26,7 +26,7 @@ El sitio web utiliza las siguientes tecnologías:
 
 <h2>Demo</h2>
 
-Puedes ver una demo del sitio web aquí: <a href="jerangel1.github.io/Magazine">Magazine Web</a>
+Puedes ver una demo del sitio web aquí: https://jerangel1.github.io/Magazine/
 <br><br>
 
 <footer>
@@ -72,8 +72,7 @@ The website is built with HTML, CSS, and JavaScript. It has a responsive design 
 </ul>
 
 <h2>Demo</h2>
-
-You can see a demo of the website here:<a href="jerangel1.github.io/Magazine">Magazine Web</a>
+You can see a demo of the website here: https://jerangel1.github.io/Magazine/
 <br>
 <br>
 
