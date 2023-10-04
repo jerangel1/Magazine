@@ -73,7 +73,7 @@ The website is built with HTML, CSS, and JavaScript. It has a responsive design 
 
 <h2>Demo</h2>
 
-You can see a demo of the website here: <a href="jerangel1.github.io/Magazine">Magazine Web</a>
+You can see a demo of the website here:<a href="jerangel1.github.io/Magazine">Magazine Web</a>
 <br>
 <br>
 
